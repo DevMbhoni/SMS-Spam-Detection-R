@@ -362,3 +362,16 @@ Possible improvements include:
 - Improving Naive Bayes preprocessing
 - Deploying the model as a Shiny app
 - Adding a simple web interface for real-time SMS classification
+
+---
+
+## Author
+**Mbhoni Shipalana**
+
+Computer Science & Statistics Graduate  
+Aspiring Software Engineer & Data Analyst
+
+📧 Email: shipalanambhoniii@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/mbhoni-shipalana-83b9b826b
+
+---
